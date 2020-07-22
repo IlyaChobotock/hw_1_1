@@ -1,9 +1,6 @@
-package geekbrains.hw_1_1;
+package geekbrains.hw_1;
 
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
-import org.omg.CosNaming.NamingContextExtPackage.StringNameHelper;
-
-public class Main {
+public class Hw_1_1 {
 
     // 1. Объявление метода main;
 
